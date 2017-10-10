@@ -1,10 +1,10 @@
 #write your code here
 def hello()
-  "Hello!"
+  return "Hello!"
 end
 
 def greet(pote)
-  "Hello, #{pote}!"
+  return "Hello, #{pote}!"
 end
 
 
